@@ -26,34 +26,34 @@ Antes de publicar o aplicativo, siga todas as instruções. Seu aplicativo não 
 
 ## Alterar nome do pacote
 
-    <img width="900px" src="assets/images/rename.gif" alt="" />
-		<img width="900px" src="assets/images/sync.png" alt="" />
-		<img width="900px" src="assets/images/string.png" alt="" />
-		<img width="900px" src="assets/images/import.png" alt="" />
+<img width="900px" src="assets/images/rename.gif" alt="" />
+<img width="900px" src="assets/images/sync.png" alt="" />
+<img width="900px" src="assets/images/string.png" alt="" />
+<img width="900px" src="assets/images/import.png" alt="" />
 
 ## API Key
 
 Obtenha sua API Key a partir de [Aqui](https://platform.openai.com/account/api-keys) e coloque-a conforme mostrado na imagem.
 
-		<img width="900px" src="assets/images/api-key.png" alt="" />
-		<img width="900px" src="assets/images/get-api-key.png" alt="" />
-		<img width="900px" src="assets/images/set-paid-account.png" alt="" />
-		<img width="900px" src="assets/images/see-usages.png" alt="" />
+<img width="900px" src="assets/images/api-key.png" alt="" />
+<img width="900px" src="assets/images/get-api-key.png" alt="" />
+<img width="900px" src="assets/images/set-paid-account.png" alt="" />
+<img width="900px" src="assets/images/see-usages.png" alt="" />
 
 ## Firebase Cloud Messaging
 
 Crie um projeto Firebase e adicione seu aplicativo ao projeto Firebase com o mesmo nome do pacote. Após isso, faça download do arquivo google-services.json e substitua o antigo, conforme mostrado na imagem.
 
-		<img width="900px" src="assets/images/fire1.png" alt="" />
-		<img width="900px" src="assets/images/fire2.png" alt="" />
-		<img width="900px" src="assets/images/firebase.png" alt="" />
+<img width="900px" src="assets/images/fire1.png" alt="" />
+<img width="900px" src="assets/images/fire2.png" alt="" />
+<img width="900px" src="assets/images/firebase.png" alt="" />
 
 ## AdMob
 
-		<img width="900px" src="assets/images/ad1.png" alt="" />
-		<img width="900px" src="assets/images/ad2.png" alt="" />
-		<img width="900px" src="assets/images/ad3.png" alt="" />
-		<img width="900px" src="assets/images/ad4.png" alt="" />
+<img width="900px" src="assets/images/ad1.png" alt="" />
+<img width="900px" src="assets/images/ad2.png" alt="" />
+<img width="900px" src="assets/images/ad3.png" alt="" />
+<img width="900px" src="assets/images/ad4.png" alt="" />
 
 ## Política de Privacidade
 
@@ -63,20 +63,20 @@ Crie um projeto Firebase e adicione seu aplicativo ao projeto Firebase com o mes
 
 Crie seu produto de assinatura In-App e certifique-se de que o ID seja o mesmo do código.
 
-		<img width="900px" src="assets/images/base-plans.png" alt="" />
+<img width="900px" src="assets/images/base-plans.png" alt="" />
 
-		<img width="900px" src="assets/images/base-plans-code.png" alt="" />
-		<img width="900px" src="assets/images/subs1.png" alt="" />
-		<img width="900px" src="assets/images/subs2.png" alt="" />
-		<img width="900px" src="assets/images/subs3.png" alt="" />
+<img width="900px" src="assets/images/base-plans-code.png" alt="" />
+<img width="900px" src="assets/images/subs1.png" alt="" />
+<img width="900px" src="assets/images/subs2.png" alt="" />
+<img width="900px" src="assets/images/subs3.png" alt="" />
 
 ## Adicionar novo idioma e alterar nome do app
 
-		<img width="900px" src="assets/images/lang1.png" alt="" />
-		<img width="900px" src="assets/images/lang2.png" alt="" />
-		<img width="900px" src="assets/images/lang3.png" alt="" />
-		<img width="900px" src="assets/images/lagn4.png" alt="" />
-		<img width="900px" src="assets/images/lang5.png" alt="" />
+<img width="900px" src="assets/images/lang1.png" alt="" />
+<img width="900px" src="assets/images/lang2.png" alt="" />
+<img width="900px" src="assets/images/lang3.png" alt="" />
+<img width="900px" src="assets/images/lagn4.png" alt="" />
+<img width="900px" src="assets/images/lang5.png" alt="" />
 
 ## Personalização das cores
 
