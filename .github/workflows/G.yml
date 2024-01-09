@@ -1,6 +1,6 @@
 name: Build project after push
 
-on:
+on: master
   issue_comment:
     types: [ created, edited ]
 
