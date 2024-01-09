@@ -1,16 +1,16 @@
 {
   "project_info": {
-    "project_number": "150611651878",
-    "project_id": "conversai-8aaa0",
-    "storage_bucket": "conversai-8aaa0.appspot.com"
+    "project_number": "316415899152",
+    "project_id": "apkku-4ee5b",
+    "storage_bucket": "apkku-4ee5b.appspot.com"
   },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:150611651878:android:9c91a4aa2d95f93ea7a5e7",
-        "android_client_info": {
-          "package_name": "com.muratozturk.conversai"
-        }
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:316415899152:android:70cb7bbad89767f50d3c95",
+          "android_client_info": {
+            "package_name": "com.rootsecbot.app"
+          }
       },
       "oauth_client": [
         {
